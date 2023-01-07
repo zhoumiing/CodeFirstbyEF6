@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Sqlite;
 
-namespace MemberManagement1.Models
+namespace CodefirstByEF6.Models
 {
     public class MemberModel
     {
