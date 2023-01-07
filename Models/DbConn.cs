@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration.Json;
 
 
 
-namespace MemberManagement1.Models
+namespace CodefirstByEF6.Models
 {
     public class DbConn:DbContext
     {
