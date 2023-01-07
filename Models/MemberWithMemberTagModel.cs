@@ -1,5 +1,5 @@
 ﻿using System;
-namespace MemberManagement1.Models
+namespace CodefirstByEF6.Models
 {
     public class MemberWithMemberTagModel
     {
